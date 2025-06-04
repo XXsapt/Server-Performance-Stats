@@ -1,4 +1,3 @@
-
 # 🖥️ Server Stats Script
 
 A simple and portable Bash script to monitor essential Linux server performance metrics. This tool helps you quickly get an overview of your system's CPU, memory, disk usage, running processes, and login attempts — all from the command line.
@@ -36,7 +35,7 @@ A simple and portable Bash script to monitor essential Linux server performance 
 
    ```bash
    chmod +x server-stats.sh
-````
+   ```
 
 3. Run the script:
 
@@ -103,13 +102,16 @@ Jun 04 09:10:55 sshd[1023]: Failed password for invalid user admin from 192.168.
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 Feel free to use, modify, and distribute it.
 
 ---
 
 ## 🙋‍♂️ Contributing
 
-Pull requests and suggestions are welcome!
+Pull requests and suggestions are welcome!  
 If you find a bug or want to add a new feature, feel free to [open an issue](https://github.com/) or submit a PR.
+
+---
+
 https://roadmap.sh/projects/server-stats
